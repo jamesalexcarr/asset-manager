@@ -10,7 +10,7 @@ import HelloWorld2 from './components/HelloWorld2.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Hello test" />
-      <HelloWorld2 msg="Hello teffesst" />
+      <HelloWorld2 msg="Hello teffttestesst" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
